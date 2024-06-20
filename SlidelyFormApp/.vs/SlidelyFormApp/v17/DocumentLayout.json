@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "CreateSubmissionForm.vb",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:58:50.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T07:08:31.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

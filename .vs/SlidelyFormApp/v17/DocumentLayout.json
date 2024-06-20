@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\CreateSubmissionForm.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\ViewSubmissionsForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\ViewSubmissionsForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\Submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\CreateSubmissionForm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SlidelyFormApp\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:55:32.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\CreateSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "SlidelyFormApp\\CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:26:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "SlidelyFormApp\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T16:32:18.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "SlidelyFormApp\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T15:29:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "SlidelyFormApp\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T15:29:53.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Submission.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\Submission.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Submission.vb",
+              "RelativeToolTip": "SlidelyFormApp\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T15:15:45.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeToolTip": "SlidelyFormApp\\Form1.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:08:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyFormApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\cliff\\OneDrive\\Desktop\\SlidelyAI\\SlidelyFormApp\\SlidelyFormApp\\Form1.vb [Design]",
+              "RelativeToolTip": "SlidelyFormApp\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:08:24.936Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

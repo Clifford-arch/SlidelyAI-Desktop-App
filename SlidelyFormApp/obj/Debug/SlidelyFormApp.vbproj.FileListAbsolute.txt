@@ -1,0 +1,4 @@
+C:\Users\cliff\OneDrive\Desktop\SlidelyAI\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.AssemblyReference.cache
+C:\Users\cliff\OneDrive\Desktop\SlidelyAI\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.Resources.resources
+C:\Users\cliff\OneDrive\Desktop\SlidelyAI\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.GenerateResource.cache
+C:\Users\cliff\OneDrive\Desktop\SlidelyAI\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.CoreCompileInputs.cache
